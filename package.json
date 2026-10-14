@@ -1,0 +1,22 @@
+{
+  "name": "susu-group",
+  "version": "1.0.0",
+  "description": "Rotating savings group manager",
+  "main": "main.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "Kenneth",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "decimal.js": "^10.6.0"
+  },
+  "devDependencies": {
+    "jest": "^30.5.2"
+  }
+}
